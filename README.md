@@ -85,7 +85,7 @@ instead of manual terminal commands.
 # Writing to a file
 with open('log.txt', 'w') as f:
     f.write('Script started\n')
-
+o
 # Reading from a file
 with open('log.txt', 'r') as f:
     print(f.read())
